@@ -29,13 +29,9 @@
  
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="html" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="css" />
-    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/Ash-programmerheroine/Ash-programmerheroine/blob/main/Typescript.svg" alt="Typescript" />
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="react" />
-
+    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" alt="vuejs" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/bootstrap-5-1.svg?alt=media&token=aaa6737c-1cf9-497b-b857-3b2377f0aab3" alt="bootstrap" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/tailwind-css-2.svg?alt=media&token=cd427171-8fcf-4191-b4c6-4207e8a1e8eb" alt="tailwindcss" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/Ash-programmerheroine/Ash-programmerheroine/blob/main/mui.png" alt="Material Ui" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/tailwind-css-2.svg?alt=media&token=cd427171-8fcf-4191-b4c6-4207e8a1e8eb" alt="tailwindcss" />  
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fflowbite.png?alt=media&token=39e96f73-693c-46c1-a0db-d9b46cd9e9f0" alt="flowbite" />
 </p>
 
