@@ -1,4 +1,4 @@
-[![MasterHead](https://Ash-programmerheroine/Ash-programmerheroine/blob/main/Cover-Image%20.png)](https://rishavchanda.io)
+[![MasterHead](https://Ash-programmerheroine/Ash-programmerheroine/blob/main/Cover-Image.png)](https://rishavchanda.io)
 <h1 align="left">Hi, I'm Ashrafi Khanam</h1>
 
 <P>I am a full-stack web developer. Passionate about coding, love to learn new technology and implement it in real life. I would like to share my ideas and experiences in creative ways. Believe in self-learning and hard work that help me to push my limits. I am enthusiastic about learning.</P>
