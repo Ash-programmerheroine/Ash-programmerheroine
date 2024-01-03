@@ -41,7 +41,7 @@
 
 <h3 align="left">Back-end:</h3>
 <p align="left">  
- <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fnode_js.png?alt=media&token=9b656be8-3c14-49c7-a9c5-77b7a0af246c" />
+ <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Fexpress.png?alt=media&token=cff625bd-6297-4ea3-8eea-1bfa171b72e2" />
 
    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/81d6a6b60a81578923a741951cdd32747615ef9195b8e4710344d72afafd90f4/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f6d6f6e676f64622d69636f6e2d312e7376673f616c743d6d6564696126746f6b656e3d61656162343232392d316634632d343336362d613837342d646436613632656663336562" />
