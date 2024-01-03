@@ -29,7 +29,7 @@
  
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="html" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="css" />
-    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/2d350500e72d7fea4b943ad40b07172330ab7a36bb17007c19ce7429953dd0ad/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f6a732e7376673f616c743d6d6564696126746f6b656e3d63323132343437622d656564322d343764312d396530362d353963643630303061313965" />
+    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://e7.pngegg.com/pngimages/436/593/png-clipart-vue-js-logo-landscape-tech-companies.png" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/Ash-programmerheroine/Ash-programmerheroine/blob/main/Typescript.svg" alt="Typescript" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="react" />
 
@@ -44,8 +44,7 @@
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://pngimg.com/uploads/php/php_PNG48.png" />
 
-   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/81d6a6b60a81578923a741951cdd32747615ef9195b8e4710344d72afafd90f4/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f6d6f6e676f64622d69636f6e2d312e7376673f616c743d6d6564696126746f6b656e3d61656162343232392d316634632d343336362d613837342d646436613632656663336562" />
-   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://camo.githubusercontent.com/5ec16ceb23ce882751c8548e8cf760343639f7ffed0f0097af8e9e2943b2636d/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f70726f66696c65322d36363034362e61707073706f742e636f6d2f6f2f66697265626173652d312e7376673f616c743d6d6564696126746f6b656e3d35343332393362352d613130372d343736332d623062612d653235343737383438663664" />
+   
   
 </p>
 
