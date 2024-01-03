@@ -50,10 +50,10 @@
  <h3 align="left">Tools:</h3>
 <p align="left"> 
  
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/vs_code.svg?alt=media&token=173d16aa-6f35-409f-9022-1b6db7ae16da" alt="aminul-islam" />
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/vs_code.svg?alt=media&token=173d16aa-6f35-409f-9022-1b6db7ae16da" alt="vs-code" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/Ash-programmerheroine/Ash-programmerheroine/blob/main/GitHub.png" alt="Github" />
-  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/git.svg?alt=media&token=4dc16fff-a177-4d2b-bd7f-7f034027c41f" alt="aminul-islam" />
-
+  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/git.svg?alt=media&token=4dc16fff-a177-4d2b-bd7f-7f034027c41f" alt="git" />
+ <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://banner2.cleanpng.com/20180619/oju/kisspng-phpstorm-jetbrains-webstorm-php-5b28f2c008a9c0.9825465415294102400355.jpg" alt="php-storm" />
   
 
 </p>
