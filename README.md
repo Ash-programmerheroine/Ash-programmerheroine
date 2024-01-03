@@ -1,20 +1,20 @@
 [![MasterHead](https://github.com/aminul-islam01101/aminul-islam01101/blob/main/Programmer%20LinkedIn%20Banner%20(1).png)](https://rishavchanda.io)
-<h1 align="left">Hi, I'm Md. Aminul Islam</h1>
+<h1 align="left">Hi, I'm Ashrafi Khanam</h1>
 
 <P>I am a full-stack web developer. Passionate about coding, love to learn new technology and implement it in real life. I would like to share my ideas and experiences in creative ways. Believe in self-learning and hard work that help me to push my limits. I am enthusiastic about learning.</P>
 
 <p margin-bottom="2px">&nbsp</p>
 
-- 🔭 I’m currently working on **Full Stack Project** focusing on microservice architecture
+- 🔭 I’m currently working on **Full Stack Project** 
 
-- 🌱 I’m currently learning **postgres**
+- 🌱 I’m currently learning **vue.js**
 
-- 💬 Ask me about **Javascript, React.js, Next.js**
+- 💬 Ask me about **Javascript, vue.js, ,PHP, Laravel**
 
-- 📫 How to reach me **aminul.islam01101@gmail.com**
+- 📫 How to reach me **ashrafikhanam.18@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HqnmhS7Bny6BtjiumoLLwq0jQqrqUZAp/view?usp=sharing" target="blank"> **My resume**</a>
-- ⚡ Fun fact **Intense Coding make me forget eating**
+
 
 <p margin-bottom="2px">&nbsp</p>
 
