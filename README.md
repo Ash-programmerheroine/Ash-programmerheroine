@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ashrafikhanam.18@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1HqnmhS7Bny6BtjiumoLLwq0jQqrqUZAp/view?usp=sharing" target="blank"> **My resume**</a>
+- 📄 Know about my experiences <a href="" target="blank"> **My resume**</a>
 
 
 <p margin-bottom="2px">&nbsp</p>
