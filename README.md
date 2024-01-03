@@ -29,7 +29,7 @@
  
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/html_5.svg?alt=media&token=9c5f1917-eef3-48b7-b211-518f63cae1b3" alt="html" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/profile2-66046.appspot.com/o/css_3.svg?alt=media&token=962bef5d-a442-4d5d-b8ae-cb7eb81e7f11" alt="css" />
-    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://e7.pngegg.com/pngimages/436/593/png-clipart-vue-js-logo-landscape-tech-companies.png" />
+    <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png" />
   <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://github.com/Ash-programmerheroine/Ash-programmerheroine/blob/main/Typescript.svg" alt="Typescript" />
  <img align="center" width="30px" height="30px" margin-bottom="10px" src="https://firebasestorage.googleapis.com/v0/b/image-test-1ac67.appspot.com/o/files%2Freact.png?alt=media&token=d2630aeb-2bff-405e-9009-cd9db90594d1" alt="react" />
 
